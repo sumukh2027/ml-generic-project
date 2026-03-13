@@ -1,0 +1,7 @@
+#all the packages that i need to install while doing this project
+
+pandas
+numpy
+seaborn
+-e . 
+#to connect it with setup.py file as it works as  a trigger.
